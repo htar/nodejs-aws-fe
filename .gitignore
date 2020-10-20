@@ -28,7 +28,6 @@ yarn-error.log*
 
 # package directories
 package-lock.json
-yarn.lock
 jspm_packages
 
 # Serverless directories
