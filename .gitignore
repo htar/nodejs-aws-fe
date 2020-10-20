@@ -25,3 +25,11 @@ yarn-error.log*
 
 /.idea
 .vscode
+
+# package directories
+package-lock.json
+yarn.lock
+jspm_packages
+
+# Serverless directories
+.serverless
